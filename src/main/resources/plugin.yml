@@ -1,0 +1,6 @@
+name: DisableVillage
+version: ${project.version}
+main: disable.village.disablevillage.DisableVillage
+api-version: 1.17
+authors: [ Akkey57492 ]
+description: 村人の取引を無効にします
